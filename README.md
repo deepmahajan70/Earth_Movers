@@ -1,3 +1,2 @@
-# Earth_Movers
-Billing Software for Earth Movers, Add Work-Record, Prepare Bill and Print. Anytime..
-
+# Operating System II
+The Subject is covering Unix details
